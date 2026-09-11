@@ -112,14 +112,14 @@
   </folder>
   <folder id="8">
     <title>梁山开发板</title>
-    <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="58">
-      <title>立创·梁山派开发板</title>
-    </bookmark>
     <bookmark href="https://lckfb.com/project/detail/lckfb_lspi?param=drawing" id="59">
       <title>立创开发板，梁山Pi，梁山派，stm32开发板，GD32开发板，嵌入式，单片机，国产32</title>
     </bookmark>
     <bookmark href="https://dri8c0qdfb.feishu.cn/wiki/wikcn3yhk3CjNBK9mESfbXlrpSC" id="60">
       <title>立创·梁山派入门学习引导手册 - 飞书云文档</title>
+    </bookmark>
+    <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="58">
+      <title>立创·梁山派开发板</title>
     </bookmark>
   </folder>
   <folder id="9">
@@ -1696,9 +1696,6 @@
     <bookmark href="https://wiki.lckfb.com/zh-hans/lspi/module/screen/0-96-color-screen.html" id="573">
       <title>1 0.96 寸彩屏 | 立创开发板技术文档中心</title>
     </bookmark>
-    <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="574">
-      <title>立创·梁山派开发板</title>
-    </bookmark>
     <bookmark href="https://dri8c0qdfb.feishu.cn/wiki/wikcn3yhk3CjNBK9mESfbXlrpSC" id="575">
       <title>立创·梁山派入门学习引导手册 - 飞书云文档</title>
     </bookmark>
@@ -1707,6 +1704,9 @@
     </bookmark>
     <bookmark href="https://detail.1688.com/offer/592198325118.html?_t=1773330538020&amp;spm=a2615.7691456.co_1_0_wangpu_score_0_0_0_0_0_0_0000_0.0" id="577">
       <title>3.2寸TFT液晶屏SPI液晶模块串口液晶显示屏ili9341 240x320 - 阿里巴巴</title>
+    </bookmark>
+    <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="574">
+      <title>立创·梁山派开发板</title>
     </bookmark>
   </folder>
   <folder id="557">
@@ -2035,9 +2035,6 @@
     <bookmark href="https://www.filehorse.com/" id="679">
       <title>免费软件下载</title>
     </bookmark>
-    <bookmark href="https://download.cnet.com/" id="680">
-      <title>Free Software Downloads</title>
-    </bookmark>
     <bookmark href="https://filehippo.com/zh/popular/" id="681">
       <title>最受欢迎的软件 -FileHippo.com</title>
     </bookmark>
@@ -2049,6 +2046,9 @@
     </bookmark>
     <bookmark href="https://www.xitongku.com/" id="684">
       <title>MSDN系统库－致力于原版windows生态服务</title>
+    </bookmark>
+    <bookmark href="https://download.cnet.com/" id="680">
+      <title>Free Software Downloads</title>
     </bookmark>
   </folder>
   <folder id="658">
@@ -2297,9 +2297,6 @@
   <bookmark href="http://www.hqchip.com/" id="764">
     <title>华秋商城</title>
   </bookmark>
-  <bookmark href="http://www.hqpcb.com/account/order/" id="765">
-    <title>华强PCB</title>
-  </bookmark>
   <bookmark href="http://www.xwpcb.com/" id="766">
     <title>pcb打样_pcb多层板_高端HDI快板制造-小微科技高多层快板厂</title>
   </bookmark>
@@ -2320,9 +2317,6 @@
   </bookmark>
   <folder id="772">
     <title>PCB下单界面</title>
-    <bookmark href="http://www.hqpcb.com/account/order/" id="773">
-      <title>华强PCB</title>
-    </bookmark>
     <bookmark href="https://www.jiepei.com/pcbonline.html" id="774">
       <title>捷配PCB</title>
     </bookmark>
@@ -2338,7 +2332,13 @@
     <bookmark href="http://www.hqchip.com/" id="778">
       <title>华秋商城</title>
     </bookmark>
+    <bookmark href="http://www.hqpcb.com/account/order/" id="773">
+      <title>华强PCB</title>
+    </bookmark>
   </folder>
+  <bookmark href="http://www.hqpcb.com/account/order/" id="765">
+    <title>华强PCB</title>
+  </bookmark>
 </folder>
 <folder id="779">
   <title>导航网站</title>
