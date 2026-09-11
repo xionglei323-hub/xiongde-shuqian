@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :786: for Floccus bookmark sync browser extension -->
+<!--- highestId :787: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -113,7 +113,7 @@
   <folder id="8">
     <title>梁山开发板</title>
     <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="58">
-      <title>立创·梁山派开发板 </title>
+      <title>立创·梁山派开发板</title>
     </bookmark>
     <bookmark href="https://lckfb.com/project/detail/lckfb_lspi?param=drawing" id="59">
       <title>立创开发板，梁山Pi，梁山派，stm32开发板，GD32开发板，嵌入式，单片机，国产32</title>
@@ -1697,7 +1697,7 @@
       <title>1 0.96 寸彩屏 | 立创开发板技术文档中心</title>
     </bookmark>
     <bookmark href="https://pro.lceda.cn/editor#id=0c46759837334318aa4882d6d37f96fa,tab=*7afa5716d98b4f86a3c0707e492282cf" id="574">
-      <title>立创·梁山派开发板 </title>
+      <title>立创·梁山派开发板</title>
     </bookmark>
     <bookmark href="https://dri8c0qdfb.feishu.cn/wiki/wikcn3yhk3CjNBK9mESfbXlrpSC" id="575">
       <title>立创·梁山派入门学习引导手册 - 飞书云文档</title>
@@ -1961,6 +1961,9 @@
   <bookmark href="file:///C:/Users/Amos/Desktop/claude/keyboard-shortcuts.html#config" id="653">
     <title>Claude Code 与 opencode 快捷键对比手册</title>
   </bookmark>
+  <bookmark href="https://github.com/google/diff-match-patch" id="787">
+    <title>google/diff-match-patch: Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.</title>
+  </bookmark>
 </folder>
 <folder id="654">
   <title>软件下载</title>
@@ -2033,7 +2036,7 @@
       <title>免费软件下载</title>
     </bookmark>
     <bookmark href="https://download.cnet.com/" id="680">
-      <title>Free Software Downloads </title>
+      <title>Free Software Downloads</title>
     </bookmark>
     <bookmark href="https://filehippo.com/zh/popular/" id="681">
       <title>最受欢迎的软件 -FileHippo.com</title>
@@ -2295,7 +2298,7 @@
     <title>华秋商城</title>
   </bookmark>
   <bookmark href="http://www.hqpcb.com/account/order/" id="765">
-    <title> 华强PCB</title>
+    <title>华强PCB</title>
   </bookmark>
   <bookmark href="http://www.xwpcb.com/" id="766">
     <title>pcb打样_pcb多层板_高端HDI快板制造-小微科技高多层快板厂</title>
@@ -2318,7 +2321,7 @@
   <folder id="772">
     <title>PCB下单界面</title>
     <bookmark href="http://www.hqpcb.com/account/order/" id="773">
-      <title> 华强PCB</title>
+      <title>华强PCB</title>
     </bookmark>
     <bookmark href="https://www.jiepei.com/pcbonline.html" id="774">
       <title>捷配PCB</title>
