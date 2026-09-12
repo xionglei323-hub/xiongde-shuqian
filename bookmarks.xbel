@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :822: for Floccus bookmark sync browser extension -->
+<!--- highestId :823: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2238,6 +2238,9 @@
     </bookmark>
     <bookmark href="https://class.cqiled.com/wolfmix/wolfmix_video.html" id="822">
       <title>Wolfmix 1.0 视频教程 | 灯控课堂</title>
+    </bookmark>
+    <bookmark href="https://class.cqiled.com/" id="823">
+      <title>CQ灯控课堂 | 灯控课堂</title>
     </bookmark>
   </folder>
 </folder>
