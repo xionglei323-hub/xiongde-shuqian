@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :787: for Floccus bookmark sync browser extension -->
+<!--- highestId :818: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1537,16 +1537,34 @@
     <bookmark href="https://portal.qiniu.com/ai-inference/api-key?cps_key=1h4vzfbkxobiq&amp;utm_campaign=0629&amp;utm_content=ccs-in&amp;utm_medium=cpm&amp;utm_source=ccs&amp;utm_term=v1" id="533">
       <title>API Key</title>
     </bookmark>
+    <bookmark href="https://portal.qiniu.com/ai-inference/api-key?cps_key=1h4vzfbkxobiq&amp;utm_campaign=0629&amp;utm_content=ccs-in&amp;utm_medium=cpm&amp;utm_source=ccs&amp;utm_term=v1" id="788">
+      <title>API Key</title>
+    </bookmark>
     <bookmark href="https://portal.qiniu.com/financial/orders/respack-mgr/all?item_code=union%3Aaitoken%3Aall%3Av1&amp;available_time=%E5%85%A8%E6%97%B6%E6%AE%B5&amp;available_zone=19001&amp;order_hash=&amp;status=0&amp;page=1&amp;page_size=10" id="538">
+      <title>七牛云 - 所有资源包</title>
+    </bookmark>
+    <bookmark href="https://portal.qiniu.com/financial/orders/respack-mgr/all?item_code=union%3Aaitoken%3Aall%3Av1&amp;available_time=%E5%85%A8%E6%97%B6%E6%AE%B5&amp;available_zone=19001&amp;order_hash=&amp;status=0&amp;page=1&amp;page_size=10" id="789">
       <title>七牛云 - 所有资源包</title>
     </bookmark>
     <bookmark href="https://opencode.ai/zh/go" id="539">
       <title>OpenCode Go | 人人可用的低成本编程模型</title>
     </bookmark>
+    <bookmark href="https://opencode.ai/zh/go" id="790">
+      <title>OpenCode Go | 人人可用的低成本编程模型</title>
+    </bookmark>
     <bookmark href="https://platform.qianwenai.com/home/analytics/token-plan/individual" id="540">
       <title>千问AI平台</title>
     </bookmark>
+    <bookmark href="https://platform.qianwenai.com/home/analytics/token-plan/individual" id="791">
+      <title>千问AI平台</title>
+    </bookmark>
     <bookmark href="https://vectide.cn/dashboard/plan-tokens" id="541">
+      <title>向量潮汐 — AI 大模型统一接入平台</title>
+    </bookmark>
+    <bookmark href="https://vectide.cn/dashboard/plan-tokens" id="792">
+      <title>向量潮汐 — AI 大模型统一接入平台</title>
+    </bookmark>
+    <bookmark href="https://vectide.cn/dashboard/docs" id="793">
       <title>向量潮汐 — AI 大模型统一接入平台</title>
     </bookmark>
     <bookmark href="https://vectide.cn/dashboard/docs" id="542">
@@ -1655,8 +1673,14 @@
       <title>Introducing ChatGPT</title>
     </bookmark>
   </folder>
+  <bookmark href="https://lnkiai.github.io/m3e-canvas/" id="794">
+    <title>M3E Canvas</title>
+  </bookmark>
   <bookmark href="https://lnkiai.github.io/m3e-canvas/" id="536">
     <title>M3E Canvas</title>
+  </bookmark>
+  <bookmark href="https://developer.amd.com.cn/register?returnUrl=https://developer.amd.com.cn/radeon/tokenfactory" id="795">
+    <title>AMD AI 开发者计划</title>
   </bookmark>
   <bookmark href="https://developer.amd.com.cn/register?returnUrl=https://developer.amd.com.cn/radeon/tokenfactory" id="537">
     <title>AMD AI 开发者计划</title>
@@ -1919,20 +1943,38 @@
   <bookmark href="https://gitee.com/" id="564">
     <title>工作台 - Gitee.com</title>
   </bookmark>
+  <bookmark href="http://www.openedv.com/docs/build/html/tool/ruanjian/index.html" id="796">
+    <title>正点原子软件仓库 — 正点原子资料下载中心 1.0.0 文档</title>
+  </bookmark>
+  <bookmark href="https://jiangxiekeji.com/" id="797">
+    <title>江协科技</title>
+  </bookmark>
   <bookmark href="http://www.openedv.com/docs/build/html/tool/ruanjian/index.html" id="630">
     <title>正点原子软件仓库 — 正点原子资料下载中心 1.0.0 文档</title>
   </bookmark>
   <bookmark href="https://jiangxiekeji.com/" id="631">
     <title>江协科技</title>
   </bookmark>
+  <bookmark href="https://jiangxiekeji.com/download.html" id="798">
+    <title>资料下载</title>
+  </bookmark>
   <bookmark href="https://jiangxiekeji.com/download.html" id="642">
     <title>资料下载</title>
+  </bookmark>
+  <bookmark href="https://embedfire.com/" id="799">
+    <title>EmbedFire东莞野火电子技术有限公司 – 野火电子</title>
   </bookmark>
   <bookmark href="https://embedfire.com/" id="643">
     <title>EmbedFire东莞野火电子技术有限公司 – 野火电子</title>
   </bookmark>
+  <bookmark href="https://download.100ask.net/" id="800">
+    <title>👨‍💻百问网资料下载中心 — 百问网资料下载中心 3.0 文档</title>
+  </bookmark>
   <bookmark href="https://download.100ask.net/" id="644">
     <title>👨‍💻百问网资料下载中心 — 百问网资料下载中心 3.0 文档</title>
+  </bookmark>
+  <bookmark href="file:///D:/xionglei/claude-skills-handbook.html" id="801">
+    <title>Claude Code 技能手册</title>
   </bookmark>
   <bookmark href="file:///D:/xionglei/claude-skills-handbook.html" id="645">
     <title>Claude Code 技能手册</title>
@@ -1940,28 +1982,55 @@
   <bookmark href="file:///C:/Users/56317/Desktop/%E6%8A%80%E8%83%BD%E8%B0%83%E7%94%A8%E6%89%8B%E5%86%8C.html" id="646">
     <title>Claude Code 技能手册</title>
   </bookmark>
+  <bookmark href="file:///C:/Users/56317/Desktop/%E6%8A%80%E8%83%BD%E8%B0%83%E7%94%A8%E6%89%8B%E5%86%8C.html" id="802">
+    <title>Claude Code 技能手册</title>
+  </bookmark>
   <bookmark href="https://go.tabbit.site/projects/qAh99jGfwz" id="647">
+    <title>Claude Code 命令大全 · 快速参考</title>
+  </bookmark>
+  <bookmark href="https://go.tabbit.site/projects/qAh99jGfwz" id="803">
     <title>Claude Code 命令大全 · 快速参考</title>
   </bookmark>
   <bookmark href="https://hermes-agent.ac.cn/docs/guides/work-with-skills" id="648">
     <title>使用技能 | Hermes Agent - Hermes 智能体</title>
   </bookmark>
+  <bookmark href="https://hermes-agent.ac.cn/docs/guides/work-with-skills" id="804">
+    <title>使用技能 | Hermes Agent - Hermes 智能体</title>
+  </bookmark>
+  <bookmark href="file:///D:/AI/Claude-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/Claude-Code-HELP%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8-%E4%B8%AD%E6%96%87%E7%89%88.html#migration" id="805">
+    <title>Claude Code 命令大全 · 综合版</title>
+  </bookmark>
   <bookmark href="file:///D:/AI/Claude-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/Claude-Code-HELP%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8-%E4%B8%AD%E6%96%87%E7%89%88.html#migration" id="649">
+    <title>Claude Code 命令大全 · 综合版</title>
+  </bookmark>
+  <bookmark href="file:///D:/AI/Claude-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/Claude-Code-HELP%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8-%E4%B8%AD%E6%96%87%E7%89%88.html#quickstart" id="806">
     <title>Claude Code 命令大全 · 综合版</title>
   </bookmark>
   <bookmark href="file:///D:/AI/Claude-%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/Claude-Code-HELP%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8-%E4%B8%AD%E6%96%87%E7%89%88.html#quickstart" id="650">
     <title>Claude Code 命令大全 · 综合版</title>
   </bookmark>
+  <bookmark href="file:///D:/AI/claude-code-shortcuts.html#slash" id="807">
+    <title>Claude Code 快捷键完整说明</title>
+  </bookmark>
   <bookmark href="file:///D:/AI/claude-code-shortcuts.html#slash" id="651">
     <title>Claude Code 快捷键完整说明</title>
   </bookmark>
+  <bookmark href="file:///C:/Users/Amos/Desktop/claude/keyboard-shortcuts.html" id="808">
+    <title>Claude Code 与 opencode 快捷键对比手册</title>
+  </bookmark>
   <bookmark href="file:///C:/Users/Amos/Desktop/claude/keyboard-shortcuts.html" id="652">
+    <title>Claude Code 与 opencode 快捷键对比手册</title>
+  </bookmark>
+  <bookmark href="file:///C:/Users/Amos/Desktop/claude/keyboard-shortcuts.html#config" id="809">
     <title>Claude Code 与 opencode 快捷键对比手册</title>
   </bookmark>
   <bookmark href="file:///C:/Users/Amos/Desktop/claude/keyboard-shortcuts.html#config" id="653">
     <title>Claude Code 与 opencode 快捷键对比手册</title>
   </bookmark>
   <bookmark href="https://github.com/google/diff-match-patch" id="787">
+    <title>google/diff-match-patch: Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.</title>
+  </bookmark>
+  <bookmark href="https://github.com/google/diff-match-patch" id="810">
     <title>google/diff-match-patch: Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.</title>
   </bookmark>
 </folder>
@@ -2258,6 +2327,12 @@
   <bookmark href="https://open.itc.cn/?tab=repos" id="751">
     <title>Open Github社区</title>
   </bookmark>
+  <bookmark href="https://open.itc.cn/?tab=repos" id="811">
+    <title>Open Github社区</title>
+  </bookmark>
+  <bookmark href="https://awesometop.cn/" id="812">
+    <title>Awesome Top 中文社区 - 开源项目精选</title>
+  </bookmark>
   <bookmark href="https://awesometop.cn/" id="752">
     <title>Awesome Top 中文社区 - 开源项目精选</title>
   </bookmark>
@@ -2267,13 +2342,28 @@
   <bookmark href="https://gitread.org/" id="754">
     <title>GitRead 中文社区 - 深度开源项目解读、趋势洞察与技术精选社区</title>
   </bookmark>
+  <bookmark href="https://www.oschina.net/project" id="813">
+    <title>OSCHINA - 开源 × AI · 开发者生态社区</title>
+  </bookmark>
   <bookmark href="https://gitcode.com/" id="755">
     <title>AtomGit - 全球开发者的开源社区,开源代码托管平台</title>
+  </bookmark>
+  <bookmark href="https://gitread.org/" id="814">
+    <title>GitRead 中文社区 - 深度开源项目解读、趋势洞察与技术精选社区</title>
   </bookmark>
   <bookmark href="https://gitee.com/explore" id="756">
     <title>开源软件 - Gitee.com</title>
   </bookmark>
+  <bookmark href="https://gitcode.com/" id="815">
+    <title>AtomGit - 全球开发者的开源社区,开源代码托管平台</title>
+  </bookmark>
   <bookmark href="https://github.com/sabrogden/Ditto/wiki" id="757">
+    <title>Home · sabrogden/Ditto Wiki</title>
+  </bookmark>
+  <bookmark href="https://gitee.com/explore" id="816">
+    <title>开源软件 - Gitee.com</title>
+  </bookmark>
+  <bookmark href="https://github.com/sabrogden/Ditto/wiki" id="817">
     <title>Home · sabrogden/Ditto Wiki</title>
   </bookmark>
 </folder>
@@ -2281,6 +2371,9 @@
   <title>SHOWVEN-PCB下单</title>
   <bookmark href="https://www.szlcsc.com/" id="759">
     <title>立创商城</title>
+  </bookmark>
+  <bookmark href="https://member.jlc.com/" id="818">
+    <title>嘉立创客户中心</title>
   </bookmark>
   <bookmark href="https://member.jlc.com/" id="760">
     <title>嘉立创客户中心</title>
