@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :819: for Floccus bookmark sync browser extension -->
+<!--- highestId :820: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2228,6 +2228,12 @@
   <bookmark href="http://showven.dieyuyun.com:31101/ierp/login.html?redirect=http%3A%2F%2Fshowven.dieyuyun.com%3A31101%2Fierp%2F" id="743">
     <title>金蝶AI星空</title>
   </bookmark>
+  <folder id="820">
+    <title>WOLFMIX控台</title>
+    <bookmark href="https://www.wolfmix.com/activate" id="819">
+      <title>Activate your Wolfmix</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="744">
   <title>GitHub</title>
@@ -2356,9 +2362,6 @@
   </folder>
   <bookmark href="http://www.hqpcb.com/account/order/" id="765">
     <title>华强PCB</title>
-  </bookmark>
-  <bookmark href="https://www.wolfmix.com/activate" id="819">
-    <title>Activate your Wolfmix</title>
   </bookmark>
 </folder>
 <folder id="779">
