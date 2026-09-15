@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :823: for Floccus bookmark sync browser extension -->
+<!--- highestId :825: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2241,6 +2241,12 @@
     </bookmark>
     <bookmark href="https://class.cqiled.com/" id="823">
       <title>CQ灯控课堂 | 灯控课堂</title>
+    </bookmark>
+    <bookmark href="https://www.eefocus.com/ai-chat/?chat=13240" id="824">
+      <title>与非AI-找器件・查替代・找方案-半导体领域的垂直AI工具</title>
+    </bookmark>
+    <bookmark href="https://www.eefocus.com/account/notification?message_type=system" id="825">
+      <title>与非网 - 电子工程师设计技术门户网站</title>
     </bookmark>
   </folder>
 </folder>
