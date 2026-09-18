@@ -1952,11 +1952,11 @@
   <bookmark href="https://www.eefocus.com/account/notification?message_type=system" id="825">
     <title>与非网 - 电子工程师设计技术门户网站</title>
   </bookmark>
-  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="828">
-    <title>MinerU 在线文档解析</title>
-  </bookmark>
   <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
     <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
+  </bookmark>
+  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="828">
+    <title>MinerU 在线文档解析</title>
   </bookmark>
   <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="826">
     <title>MinerU 在线文档解析</title>
