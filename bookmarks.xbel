@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :833: for Floccus bookmark sync browser extension -->
+<!--- highestId :834: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1679,6 +1679,21 @@
 </folder>
 <folder id="554">
   <title>熊</title>
+  <folder id="833">
+    <title>ESP32-C5</title>
+    <bookmark href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32c5/Get_Started/Hardware_connection.html" id="834">
+      <title>硬件连接 - ESP32-C5 - — ESP-AT 用户指南 latest 文档</title>
+    </bookmark>
+    <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
+      <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
+    </bookmark>
+    <bookmark href="https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32c5/hw-reference/index.html" id="831">
+      <title>H/W 硬件参考 - ESP32-C5 - — ESP-IDF 编程指南 v6.1 文档</title>
+    </bookmark>
+    <bookmark href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32c5/Get_Started/What_is_ESP-AT.html" id="832">
+      <title>ESP-AT 是什么 - ESP32-C5 - — ESP-AT 用户指南 latest 文档</title>
+    </bookmark>
+  </folder>
   <folder id="555">
     <title>云盘</title>
     <bookmark href="http://localhost:19798/" id="565">
@@ -1958,20 +1973,8 @@
   <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="826">
     <title>MinerU 在线文档解析</title>
   </bookmark>
-  <folder id="833">
-    <title>ESP32-C5</title>
-  </folder>
   <bookmark href="https://www.qrcode-monkey.com/" id="829">
     <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
-  </bookmark>
-  <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
-    <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
-  </bookmark>
-  <bookmark href="https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32c5/hw-reference/index.html" id="831">
-    <title>H/W 硬件参考 - ESP32-C5 - — ESP-IDF 编程指南 v6.1 文档</title>
-  </bookmark>
-  <bookmark href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32c5/Get_Started/What_is_ESP-AT.html" id="832">
-    <title>ESP-AT 是什么 - ESP32-C5 - — ESP-AT 用户指南 latest 文档</title>
   </bookmark>
 </folder>
 <folder id="654">
