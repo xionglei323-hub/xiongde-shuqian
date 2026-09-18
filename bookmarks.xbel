@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :830: for Floccus bookmark sync browser extension -->
+<!--- highestId :831: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1952,17 +1952,20 @@
   <bookmark href="https://www.eefocus.com/account/notification?message_type=system" id="825">
     <title>与非网 - 电子工程师设计技术门户网站</title>
   </bookmark>
-  <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
-    <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
-  </bookmark>
   <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="828">
     <title>MinerU 在线文档解析</title>
+  </bookmark>
+  <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
+    <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
   </bookmark>
   <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="826">
     <title>MinerU 在线文档解析</title>
   </bookmark>
   <bookmark href="https://www.qrcode-monkey.com/" id="829">
     <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
+  </bookmark>
+  <bookmark href="https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32c5/hw-reference/index.html" id="831">
+    <title>H/W 硬件参考 - ESP32-C5 - — ESP-IDF 编程指南 v6.1 文档</title>
   </bookmark>
 </folder>
 <folder id="654">
