@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :829: for Floccus bookmark sync browser extension -->
+<!--- highestId :830: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1949,20 +1949,23 @@
   <bookmark href="https://download.100ask.net/" id="800">
     <title>👨‍💻百问网资料下载中心 — 百问网资料下载中心 3.0 文档</title>
   </bookmark>
-  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="828">
-    <title>MinerU 在线文档解析</title>
-  </bookmark>
-  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="826">
-    <title>MinerU 在线文档解析</title>
-  </bookmark>
   <bookmark href="https://www.eefocus.com/account/notification?message_type=system" id="825">
     <title>与非网 - 电子工程师设计技术门户网站</title>
+  </bookmark>
+  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="828">
+    <title>MinerU 在线文档解析</title>
   </bookmark>
   <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
     <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
   </bookmark>
+  <bookmark href="https://mineru.net/OpenSourceTools/Extractor" id="826">
+    <title>MinerU 在线文档解析</title>
+  </bookmark>
   <bookmark href="https://www.qrcode-monkey.com/" id="829">
     <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
+  </bookmark>
+  <bookmark href="https://www.doubao.com/chat/?channel=move_tab&amp;type=tab&amp;theme=wangzjh" id="830">
+    <title>豆包 - 字节跳动旗下 AI 智能助手</title>
   </bookmark>
 </folder>
 <folder id="654">
