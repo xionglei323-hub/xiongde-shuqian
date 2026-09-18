@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :834: for Floccus bookmark sync browser extension -->
+<!--- highestId :835: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1692,6 +1692,9 @@
     </bookmark>
     <bookmark href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32c5/Get_Started/What_is_ESP-AT.html" id="832">
       <title>ESP-AT 是什么 - ESP32-C5 - — ESP-AT 用户指南 latest 文档</title>
+    </bookmark>
+    <bookmark href="https://documentation.espressif.com/esp-dev-kits/zh_CN/latest/esp32c5/esp32-c5-devkitc-1/user_guide.html" id="835">
+      <title>ESP32-C5-DevKitC-1 v1.2 用户指南 ｜ 乐鑫科技文档</title>
     </bookmark>
   </folder>
   <folder id="555">
