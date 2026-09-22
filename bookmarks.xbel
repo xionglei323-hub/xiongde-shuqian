@@ -1684,9 +1684,6 @@
     <bookmark href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32c5/Get_Started/Hardware_connection.html" id="834">
       <title>硬件连接 - ESP32-C5 - — ESP-AT 用户指南 latest 文档</title>
     </bookmark>
-    <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
-      <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
-    </bookmark>
     <bookmark href="https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32c5/hw-reference/index.html" id="831">
       <title>H/W 硬件参考 - ESP32-C5 - — ESP-IDF 编程指南 v6.1 文档</title>
     </bookmark>
@@ -1695,6 +1692,9 @@
     </bookmark>
     <bookmark href="https://documentation.espressif.com/esp-dev-kits/zh_CN/latest/esp32c5/esp32-c5-devkitc-1/user_guide.html" id="835">
       <title>ESP32-C5-DevKitC-1 v1.2 用户指南 ｜ 乐鑫科技文档</title>
+    </bookmark>
+    <bookmark href="https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32c5/development_stage/index.html" id="827">
+      <title>研发阶段 - ESP32-C5 - — ESP 测试工具 latest 文档</title>
     </bookmark>
   </folder>
   <folder id="555">
