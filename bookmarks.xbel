@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :835: for Floccus bookmark sync browser extension -->
+<!--- highestId :838: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2329,6 +2329,15 @@
   </bookmark>
   <bookmark href="https://github.com/sabrogden/Ditto/wiki" id="817">
     <title>Home · sabrogden/Ditto Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.dataaihub.co/github/rankings" id="836">
+    <title>AI GitHub Repository Rankings 2026 | DataAIHub</title>
+  </bookmark>
+  <bookmark href="https://github.com/yuxiaopeng/Github-Ranking-AI#ChatGPT" id="837">
+    <title>yuxiaopeng/Github-Ranking-AI: A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。</title>
+  </bookmark>
+  <bookmark href="https://yuxiaopeng.com/Github-Ranking-AI/#LLM" id="838">
+    <title>Github Ranking AI | Github-Ranking-AI</title>
   </bookmark>
 </folder>
 <folder id="758">
