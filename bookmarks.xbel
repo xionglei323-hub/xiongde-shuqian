@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :838: for Floccus bookmark sync browser extension -->
+<!--- highestId :839: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1981,6 +1981,9 @@
   </bookmark>
   <bookmark href="https://yuxiaopeng.com/Github-Ranking-AI/#LLM" id="838">
     <title>Github Ranking AI | Github-Ranking-AI</title>
+  </bookmark>
+  <bookmark href="https://github.com/librosa/librosa?utm_source=chatgpt.com" id="839">
+    <title>librosa/librosa: Python library for audio and music analysis</title>
   </bookmark>
 </folder>
 <folder id="654">
