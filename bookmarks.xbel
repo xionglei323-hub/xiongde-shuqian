@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :840: for Floccus bookmark sync browser extension -->
+<!--- highestId :841: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1981,6 +1981,9 @@
   </bookmark>
   <bookmark href="http://127.0.0.1:9119/sessions?profile=default" id="840">
     <title>Hermes Agent - Dashboard</title>
+  </bookmark>
+  <bookmark href="https://key.goaichat.top/guide/" id="841">
+    <title>AI 使用教程｜小白与进阶教程</title>
   </bookmark>
 </folder>
 <folder id="654">
