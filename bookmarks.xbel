@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :841: for Floccus bookmark sync browser extension -->
+<!--- highestId :843: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1564,6 +1564,12 @@
     <bookmark href="https://vectide.cn/dashboard/plan-tokens" id="792">
       <title>向量潮汐 — AI 大模型统一接入平台</title>
     </bookmark>
+    <bookmark href="https://key.goaichat.top/" id="842">
+      <title>API Key 查询与使用教程</title>
+    </bookmark>
+    <bookmark href="https://key.goaichat.top/guide/" id="841">
+      <title>AI 使用教程｜小白与进阶教程</title>
+    </bookmark>
   </folder>
   <folder id="484">
     <title>提示资源</title>
@@ -1982,8 +1988,8 @@
   <bookmark href="http://127.0.0.1:9119/sessions?profile=default" id="840">
     <title>Hermes Agent - Dashboard</title>
   </bookmark>
-  <bookmark href="https://key.goaichat.top/guide/" id="841">
-    <title>AI 使用教程｜小白与进阶教程</title>
+  <bookmark href="https://app.diagrams.net/" id="843">
+    <title>未命名绘图 - draw.io</title>
   </bookmark>
 </folder>
 <folder id="654">
