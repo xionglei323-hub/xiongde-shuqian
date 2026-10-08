@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :843: for Floccus bookmark sync browser extension -->
+<!--- highestId :844: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1437,8 +1437,8 @@
 <bookmark href="https://www.jd.com/" id="478">
   <title>京东</title>
 </bookmark>
-<bookmark href="https://re.1688.com/?pageid=6797093604440377468" id="479">
-  <title>阿里巴巴1688.com</title>
+<bookmark href="https://translate.google.com/?hl=zh-CN" id="844">
+  <title>Google 翻译</title>
 </bookmark>
 <bookmark href="https://cn.bing.com/?pc=U685" id="480">
   <title>必应</title>
@@ -2435,6 +2435,9 @@
 </folder>
 <bookmark href="https://www.google.com.hk/?hl=cn" id="785">
   <title>Google</title>
+</bookmark>
+<bookmark href="https://re.1688.com/?pageid=6797093604440377468" id="479">
+  <title>阿里巴巴1688.com</title>
 </bookmark>
 <bookmark href="https://mobile.pinduoduo.com/" id="786">
   <title>拼多多</title>
