@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :845: for Floccus bookmark sync browser extension -->
+<!--- highestId :847: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1993,6 +1993,12 @@
   </bookmark>
   <bookmark href="https://conductance-lab.xyz/" id="845">
     <title>电导实验室官网 Conductance-lab</title>
+  </bookmark>
+  <bookmark href="https://aperture--tailbc2729.connect.aperture.tailscale.com/chat/95d049d2214d1740" id="846">
+    <title>询问助手用途及与 Codex 区别 · Aperture Chat</title>
+  </bookmark>
+  <bookmark href="https://aperture--tailbc2729.connect.aperture.tailscale.com/chat" id="847">
+    <title>Agents · Aperture Chat</title>
   </bookmark>
 </folder>
 <folder id="654">
