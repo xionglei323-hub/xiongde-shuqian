@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :847: for Floccus bookmark sync browser extension -->
+<!--- highestId :848: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1999,6 +1999,9 @@
   </bookmark>
   <bookmark href="https://aperture--tailbc2729.connect.aperture.tailscale.com/chat" id="847">
     <title>Agents · Aperture Chat</title>
+  </bookmark>
+  <bookmark href="https://www.superclueai.com/homepage" id="848">
+    <title>SuperCLUE中文大模型测评基准-AI评测榜单</title>
   </bookmark>
 </folder>
 <folder id="654">
