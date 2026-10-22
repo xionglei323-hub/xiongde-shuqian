@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :854: for Floccus bookmark sync browser extension -->
+<!--- highestId :855: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2307,6 +2307,9 @@
     </bookmark>
     <bookmark href="https://www.eefocus.com/ai-chat/?chat=13240" id="824">
       <title>与非AI-找器件・查替代・找方案-半导体领域的垂直AI工具</title>
+    </bookmark>
+    <bookmark href="https://open-fixture-library.org/" id="855">
+      <title>Open Fixture Library</title>
     </bookmark>
   </folder>
 </folder>
