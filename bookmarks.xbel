@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :853: for Floccus bookmark sync browser extension -->
+<!--- highestId :854: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2013,6 +2013,9 @@
     </bookmark>
     <bookmark href="https://go.vidu.com/zh/create/character2video" id="853">
       <title>参考生视频 | Vidu AI</title>
+    </bookmark>
+    <bookmark href="https://open-fixture-library.org/" id="854">
+      <title>Open Fixture Library</title>
     </bookmark>
   </folder>
 </folder>
