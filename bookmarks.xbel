@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :855: for Floccus bookmark sync browser extension -->
+<!--- highestId :856: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1676,6 +1676,9 @@
   <bookmark href="https://lnkiai.github.io/m3e-canvas/" id="794">
     <title>M3E Canvas</title>
   </bookmark>
+  <bookmark href="https://mitte.ai/" id="856">
+    <title>AI Creative Suite · Mitte</title>
+  </bookmark>
 </folder>
 <folder id="554">
   <title>熊</title>
@@ -2006,18 +2009,6 @@
   <bookmark href="https://prompts.chat/" id="849">
     <title>Prompts | prompts.chat</title>
   </bookmark>
-  <folder id="852">
-    <title>视频生成</title>
-    <bookmark href="https://go.vidu.com/zh/pricing?utm_source=chatgpt.com" id="851">
-      <title>Vidu AI视频生成定价方案 | Vidu AI</title>
-    </bookmark>
-    <bookmark href="https://go.vidu.com/zh/create/character2video" id="853">
-      <title>参考生视频 | Vidu AI</title>
-    </bookmark>
-    <bookmark href="https://open-fixture-library.org/" id="854">
-      <title>Open Fixture Library</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="654">
   <title>软件下载</title>
@@ -2307,9 +2298,6 @@
     </bookmark>
     <bookmark href="https://www.eefocus.com/ai-chat/?chat=13240" id="824">
       <title>与非AI-找器件・查替代・找方案-半导体领域的垂直AI工具</title>
-    </bookmark>
-    <bookmark href="https://open-fixture-library.org/" id="855">
-      <title>Open Fixture Library</title>
     </bookmark>
   </folder>
 </folder>
