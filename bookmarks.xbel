@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :857: for Floccus bookmark sync browser extension -->
+<!--- highestId :858: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2272,6 +2272,9 @@
   </folder>
   <bookmark href="https://conductance-lab.xyz/SerialWeb/" id="850">
     <title>SerialWeb 网页串口调试与图形解析工具 | Conductance-lab</title>
+  </bookmark>
+  <bookmark href="https://zhenhuizhang.tk/post/dian-lu-ad-dian-yuan-wan-zheng-xing-cha-jian-_pdn-analyzer/#pdn-analyzer%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B" id="858">
+    <title>[电路]AD电源完整性插件_PDN Analyzer | 渣渣晖の博客</title>
   </bookmark>
 </folder>
 <folder id="740">
