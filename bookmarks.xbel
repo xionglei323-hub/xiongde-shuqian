@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :856: for Floccus bookmark sync browser extension -->
+<!--- highestId :857: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2008,6 +2008,9 @@
   </bookmark>
   <bookmark href="https://prompts.chat/" id="849">
     <title>Prompts | prompts.chat</title>
+  </bookmark>
+  <bookmark href="https://community.openai.com/" id="857">
+    <title>28 days of Shipping at OpenAI - Codex - OpenAI Developer Community</title>
   </bookmark>
 </folder>
 <folder id="654">
