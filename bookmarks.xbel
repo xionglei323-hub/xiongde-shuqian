@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :860: for Floccus bookmark sync browser extension -->
+<!--- highestId :861: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2014,6 +2014,9 @@
   </bookmark>
   <bookmark href="https://grizzlysms.com/cn/" id="860">
     <title>灰熊SMS国际短信验证码平台购买在线接收注册验证码的虚拟手机号</title>
+  </bookmark>
+  <bookmark href="https://eternity4719.github.io/HowToLiveBetter/" id="861">
+    <title>高性价比人生指南 · 用最少的钱、时间和精力换回寿命、金钱和人身自由</title>
   </bookmark>
 </folder>
 <folder id="654">
