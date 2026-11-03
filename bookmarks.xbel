@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :862: for Floccus bookmark sync browser extension -->
+<!--- highestId :863: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1524,6 +1524,9 @@
     </bookmark>
     <bookmark href="https://prompthouse.studio/?utm_source=chatgpt.com" id="862">
       <title>Trending AI Image Prompts to Copy | Prompt House</title>
+    </bookmark>
+    <bookmark href="https://prompts.oomol.com/?utm_source=chatgpt.com" id="863">
+      <title>GPT Image 2 AI Prompt Gallery | Image Prompt Inspiration</title>
     </bookmark>
   </folder>
   <folder id="485">
