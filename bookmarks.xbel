@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :894: for Floccus bookmark sync browser extension -->
+<!--- highestId :895: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2362,6 +2362,9 @@
   </bookmark>
   <bookmark href="https://github.com/yuxiaopeng/Github-Ranking-AI#ChatGPT" id="837">
     <title>yuxiaopeng/Github-Ranking-AI: A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。</title>
+  </bookmark>
+  <bookmark href="https://univer.ai/zh-CN/" id="895">
+    <title>Univer：面向 AI Agent 的 Office SDK 与 Office Harness</title>
   </bookmark>
 </folder>
 <folder id="758">
