@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :910: for Floccus bookmark sync browser extension -->
+<!--- highestId :911: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1691,6 +1691,9 @@
       <title>AI提示词 - 最新AI提示词(Prompt)模板网站大全 | AIGC工具导航</title>
     </bookmark>
   </folder>
+  <bookmark href="https://muse.ai/" id="911">
+    <title>(1) Chat — Muse</title>
+  </bookmark>
 </folder>
 <folder id="554">
   <title>熊</title>
