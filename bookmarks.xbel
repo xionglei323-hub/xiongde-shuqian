@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :911: for Floccus bookmark sync browser extension -->
+<!--- highestId :912: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2047,6 +2047,9 @@
   </bookmark>
   <bookmark href="https://www.eetree.cn/" id="910">
     <title>电子森林</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="912">
+    <title>我的云端硬盘 - Google 云端硬盘</title>
   </bookmark>
 </folder>
 <folder id="654">
