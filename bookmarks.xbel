@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :914: for Floccus bookmark sync browser extension -->
+<!--- highestId :915: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2056,6 +2056,9 @@
   </bookmark>
   <bookmark href="https://dianbaodaohang.com/" id="914">
     <title>电报导航|Telegram导航|电报频道大全|电报群组大全 | 汇聚10000+优质Telegram群组推荐、频道和机器人，精心筛选，让您轻松玩转Telegram</title>
+  </bookmark>
+  <bookmark href="https://www.couleurapp.com/" id="915">
+    <title>软鉴 SoftMemo - AI 整理的软件知识库：应用、插件、脚本与技能目录</title>
   </bookmark>
 </folder>
 <folder id="654">
