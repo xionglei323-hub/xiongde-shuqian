@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :913: for Floccus bookmark sync browser extension -->
+<!--- highestId :914: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -1661,6 +1661,9 @@
       <title>Superdesign</title>
     </bookmark>
   </folder>
+  <bookmark href="https://mitte.ai/" id="856">
+    <title>AI Creative Suite · Mitte</title>
+  </bookmark>
   <folder id="484">
     <title>提示词网站</title>
     <bookmark href="https://vfqxua5lvd.feishu.cn/docx/S6m3dw2IwosKKdxkEGscWDY2nQe" id="511">
@@ -1679,9 +1682,6 @@
       <title>Superdesign</title>
     </bookmark>
   </folder>
-  <bookmark href="https://mitte.ai/" id="856">
-    <title>AI Creative Suite · Mitte</title>
-  </bookmark>
   <folder id="907">
     <title>提示资源</title>
     <bookmark href="https://vfqxua5lvd.feishu.cn/docx/S6m3dw2IwosKKdxkEGscWDY2nQe" id="908">
@@ -2053,6 +2053,9 @@
   </bookmark>
   <bookmark href="https://excalidraw.com/?utm_source=chatgpt.com" id="913">
     <title>画图网页-无限画布</title>
+  </bookmark>
+  <bookmark href="https://dianbaodaohang.com/" id="914">
+    <title>电报导航|Telegram导航|电报频道大全|电报群组大全 | 汇聚10000+优质Telegram群组推荐、频道和机器人，精心筛选，让您轻松玩转Telegram</title>
   </bookmark>
 </folder>
 <folder id="654">
