@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :915: for Floccus bookmark sync browser extension -->
+<!--- highestId :916: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2059,6 +2059,9 @@
   </bookmark>
   <bookmark href="https://www.couleurapp.com/" id="915">
     <title>软鉴 SoftMemo - AI 整理的软件知识库：应用、插件、脚本与技能目录</title>
+  </bookmark>
+  <bookmark href="https://hsqhere.github.io/mcu-pinout-table/" id="916">
+    <title>芯片引脚参考</title>
   </bookmark>
 </folder>
 <folder id="654">
