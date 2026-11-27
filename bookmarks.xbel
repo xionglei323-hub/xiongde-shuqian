@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :916: for Floccus bookmark sync browser extension -->
+<!--- highestId :917: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>其他</title>
@@ -2062,6 +2062,9 @@
   </bookmark>
   <bookmark href="https://hsqhere.github.io/mcu-pinout-table/" id="916">
     <title>芯片引脚参考</title>
+  </bookmark>
+  <bookmark href="https://vercel.com/xionglei323-hub" id="917">
+    <title>Vercel网页部署主页</title>
   </bookmark>
 </folder>
 <folder id="654">
